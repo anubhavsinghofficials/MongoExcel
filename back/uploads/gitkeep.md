@@ -1,0 +1,1 @@
+- This folder is used as a temporary folder used by multer to temporarily store files before saving it to the database
