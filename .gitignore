@@ -1,0 +1,13 @@
+# Ignore dependencies and build output
+node_modules/
+build/
+dist/
+*.log
+
+# Ignore sensitive or environment-specific information
+.env
+.env.local
+.env.*.local
+
+# Ignore coverage directory (for test coverage reports)
+coverage/
